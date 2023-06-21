@@ -1,0 +1,5 @@
+06/21/23 14:49:35: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:49:35: Copyright (c) Horshack, System Time: 06/21/23 14:49:35, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:49:35: Error translating parameter values for "SHUTTERSPEED1 = 1/4" on line 6
+06/21/23 14:49:35: >>>> canomate session over (exit=102), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"

@@ -1,0 +1,1101 @@
+06/20/23 17:08:47: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:08:47: Copyright (c) Horshack, System Time: 06/20/23 17:08:47, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:08:47: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/Canomate-master/canomate-appdata"
+06/20/23 17:14:49: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:14:49: Copyright (c) Horshack, System Time: 06/20/23 17:14:49, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:14:49: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/Canomate-master/canomate-appdata"
+06/20/23 17:17:01: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:17:01: Copyright (c) Horshack, System Time: 06/20/23 17:17:01, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:17:01: Command line error: the following arguments are required: --ipaddress
+06/20/23 17:17:01: >>>> canomate session over (exit=100), logs at "/Users/parisha/Desktop/Canomate-master/canomate-appdata"
+06/20/23 17:17:30: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:17:30: Copyright (c) Horshack, System Time: 06/20/23 17:17:30, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:17:30: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/Canomate-master/canomate-appdata"
+06/20/23 17:18:07: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:18:07: Copyright (c) Horshack, System Time: 06/20/23 17:18:07, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:18:07: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/Canomate-master/canomate-appdata"
+06/20/23 17:18:35: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:18:35: Copyright (c) Horshack, System Time: 06/20/23 17:18:35, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:18:35: ** GET Failed ** "HTTPConnectionPool(host='https', port=80): Max retries exceeded with url: //192.168.1.2:8080/ccapi:8080/ccapi/ver100/deviceinformation (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff61a190dc0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+06/20/23 17:18:35: ** GET Failed ** "HTTPConnectionPool(host='https', port=80): Max retries exceeded with url: //192.168.1.2:8080/ccapi:8080/ccapi/ver100/deviceinformation (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff61a182940>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+06/20/23 17:18:35: ** GET Failed ** "HTTPConnectionPool(host='https', port=80): Max retries exceeded with url: //192.168.1.2:8080/ccapi:8080/ccapi/ver100/deviceinformation (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff61a182940>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+06/20/23 17:18:35: >>>> canomate session over (exit=1100), logs at "/Users/parisha/Desktop/Canomate-master/canomate-appdata"
+06/20/23 17:19:00: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:19:00: Copyright (c) Horshack, System Time: 06/20/23 17:19:00, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:19:00: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/20/23 17:19:00: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/100, ISO: auto, EC: +0.0
+06/20/23 17:19:00: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/20/23 17:19:00: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/Canomate-master/canomate-appdata"
+06/20/23 17:24:00: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:24:00: Copyright (c) Horshack, System Time: 06/20/23 17:24:00, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:24:00: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/20/23 17:24:00: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/100, ISO: auto, EC: +0.0
+06/20/23 17:24:00: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/20/23 17:24:00: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:24:23: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:24:23: Copyright (c) Horshack, System Time: 06/20/23 17:24:23, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:24:23: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/20/23 17:24:23: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/100, ISO: auto, EC: +0.0
+06/20/23 17:24:23: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/20/23 17:24:23: AssertCameraSettings: Conditions met
+06/20/23 17:24:23: SetAperture: f5.6
+06/20/23 17:24:23: SetShutterSpeed: 1/200
+06/20/23 17:24:23: SetIso: 400
+06/20/23 17:24:23: TakePhoto
+06/20/23 17:24:23: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:24:38: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:24:38: Copyright (c) Horshack, System Time: 06/20/23 17:24:38, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:24:38: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/20/23 17:24:38: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/200, ISO: 400, EC: 
+06/20/23 17:24:38: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/20/23 17:24:38: AssertCameraSettings: Conditions met
+06/20/23 17:24:38: SetAperture: f5.6
+06/20/23 17:24:38: SetShutterSpeed: 1/30
+06/20/23 17:24:38: SetIso: 400
+06/20/23 17:24:38: TakePhoto
+06/20/23 17:24:39: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:25:25: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:25:25: Copyright (c) Horshack, System Time: 06/20/23 17:25:25, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:25:25: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/20/23 17:25:25: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/30, ISO: 400, EC: 
+06/20/23 17:25:25: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/20/23 17:25:25: AssertCameraSettings: Conditions met
+06/20/23 17:25:25: SetAperture: f5.6
+06/20/23 17:25:25: SetShutterSpeed: 1/10
+06/20/23 17:25:25: SetIso: 400
+06/20/23 17:25:25: TakePhoto
+06/20/23 17:25:25: SetShutterSpeed: 1/20
+06/20/23 17:25:25: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:25:25: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:25:25: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:25:25: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/20/23 17:25:25: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:25:44: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:25:44: Copyright (c) Horshack, System Time: 06/20/23 17:25:44, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:25:44: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/20/23 17:25:44: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/10, ISO: 400, EC: 
+06/20/23 17:25:44: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/20/23 17:25:44: AssertCameraSettings: Conditions met
+06/20/23 17:25:44: SetAperture: f5.6
+06/20/23 17:25:44: SetShutterSpeed: 1/10
+06/20/23 17:25:44: SetIso: 400
+06/20/23 17:25:44: TakePhoto
+06/20/23 17:25:44: SetShutterSpeed: 1/20
+06/20/23 17:25:44: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:25:44: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:25:44: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:25:44: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/20/23 17:25:44: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:26:31: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:26:31: Copyright (c) Horshack, System Time: 06/20/23 17:26:31, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:26:31: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/20/23 17:26:31: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/10, ISO: 400, EC: 
+06/20/23 17:26:31: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/20/23 17:26:32: AssertCameraSettings: Conditions met
+06/20/23 17:26:32: SetAperture: f5.6
+06/20/23 17:26:32: SetShutterSpeed: 1/10
+06/20/23 17:26:32: SetIso: 400
+06/20/23 17:26:32: TakePhoto
+06/20/23 17:26:32: AssertCameraSettings: Conditions met
+06/20/23 17:26:32: SetAperture: f5.6
+06/20/23 17:26:32: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:26:32: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:26:32: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:26:32: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/20/23 17:26:32: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:27:27: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:27:27: Copyright (c) Horshack, System Time: 06/20/23 17:27:27, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:27:27: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/20/23 17:27:27: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/10, ISO: 400, EC: 
+06/20/23 17:27:27: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/20/23 17:27:27: AssertCameraSettings: Conditions met
+06/20/23 17:27:27: SetAperture: f5.6
+06/20/23 17:27:27: SetShutterSpeed: 1/10
+06/20/23 17:27:27: SetIso: 400
+06/20/23 17:27:27: TakePhoto
+06/20/23 17:27:27: AssertCameraSettings: Conditions met
+06/20/23 17:27:27: SetAperture: f5.6
+06/20/23 17:27:27: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:27:27: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:27:27: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:27:27: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/20/23 17:27:27: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:31:50: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:31:50: Copyright (c) Horshack, System Time: 06/20/23 17:31:50, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:31:50: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/20/23 17:31:50: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/10, ISO: 400, EC: 
+06/20/23 17:31:50: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/20/23 17:31:50: Performing group "1", Iteration 1/1
+06/20/23 17:31:50: AssertCameraSettings: Conditions met
+06/20/23 17:31:50: SetAperture: f5.6
+06/20/23 17:31:50: SetShutterSpeed: 1/10
+06/20/23 17:31:50: SetIso: 400
+06/20/23 17:31:50: TakePhoto
+06/20/23 17:31:50: Performing group "2", Iteration 1/1
+06/20/23 17:31:50: AssertCameraSettings: Conditions met
+06/20/23 17:31:50: SetAperture: f5.6
+06/20/23 17:31:50: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:31:50: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:31:50: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:31:50: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/20/23 17:31:50: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:33:06: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:33:06: Copyright (c) Horshack, System Time: 06/20/23 17:33:06, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:33:06: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/20/23 17:33:06: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/10, ISO: 400, EC: 
+06/20/23 17:33:06: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/20/23 17:33:06: Performing group "1", Iteration 1/1
+06/20/23 17:33:06: AssertCameraSettings: Conditions met
+06/20/23 17:33:06: SetAperture: f5.6
+06/20/23 17:33:06: SetShutterSpeed: 1/10
+06/20/23 17:33:06: SetIso: 400
+06/20/23 17:33:06: TakePhoto
+06/20/23 17:33:06: Performing group "2", Iteration 1/1
+06/20/23 17:33:06: AssertCameraSettings: Conditions met
+06/20/23 17:33:06: SetAperture: f5.6
+06/20/23 17:33:06: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:33:06: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:33:06: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:33:06: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/20/23 17:33:06: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:33:29: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:33:29: Copyright (c) Horshack, System Time: 06/20/23 17:33:29, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:33:29: Performing group "1", Iteration 1/1
+06/20/23 17:33:29: AssertCameraSettings: Conditions met
+06/20/23 17:33:29: SetAperture: f5.6
+06/20/23 17:33:29: SetShutterSpeed: 1/10
+06/20/23 17:33:29: SetIso: 400
+06/20/23 17:33:29: TakePhoto
+06/20/23 17:33:29: Performing group "2", Iteration 1/1
+06/20/23 17:33:29: AssertCameraSettings: Conditions met
+06/20/23 17:33:29: SetAperture: f5.6
+06/20/23 17:33:29: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:33:29: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:33:29: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:33:29: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/20/23 17:33:29: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:34:49: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:34:49: Copyright (c) Horshack, System Time: 06/20/23 17:34:49, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:34:49: Performing group "1", Iteration 1/1
+06/20/23 17:34:49: AssertCameraSettings: Conditions met
+06/20/23 17:34:49: SetAperture: f5.6
+06/20/23 17:34:49: SetShutterSpeed: 1/10
+06/20/23 17:34:49: SetIso: 400
+06/20/23 17:34:49: TakePhoto
+06/20/23 17:34:49: TakePhoto
+06/20/23 17:34:49: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:49: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:49: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:49: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:50: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: TakePhoto
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:51: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: TakePhoto
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:52: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: POST Request "http://192.168.1.2:8080/ccapi/ver100/shooting/control/shutterbutton" failed, status_code: 503, {'message': 'Device busy', 'status_code': 503, 'success': False}
+06/20/23 17:34:53: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:35:28: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:35:28: Copyright (c) Horshack, System Time: 06/20/23 17:35:28, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:35:28: Performing group "1", Iteration 1/1
+06/20/23 17:35:28: AssertCameraSettings: Conditions met
+06/20/23 17:35:28: SetAperture: f5.6
+06/20/23 17:35:28: SetShutterSpeed: 1/10
+06/20/23 17:35:28: SetIso: 400
+06/20/23 17:35:28: TakePhoto
+06/20/23 17:35:28: AssertCameraSettings: Conditions met
+06/20/23 17:35:28: SetAperture: f5.6
+06/20/23 17:35:28: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:35:28: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:35:28: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/av" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:35:28: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/20/23 17:35:28: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:36:08: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:36:08: Copyright (c) Horshack, System Time: 06/20/23 17:36:08, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:36:08: AssertCameraSettings: Conditions met
+06/20/23 17:36:08: SetAperture: f5.6
+06/20/23 17:36:08: SetShutterSpeed: 1/20
+06/20/23 17:36:08: SetIso: 400
+06/20/23 17:36:08: TakePhoto
+06/20/23 17:36:09: SetShutterSpeed: 1/30
+06/20/23 17:36:09: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:36:09: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:36:09: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:36:09: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/20/23 17:36:09: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/20/23 17:36:15: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/20/23 17:36:15: Copyright (c) Horshack, System Time: 06/20/23 17:36:15, Py: 3.8.16, OS: Darwin
+
+06/20/23 17:36:15: AssertCameraSettings: Conditions met
+06/20/23 17:36:15: SetAperture: f5.6
+06/20/23 17:36:15: SetShutterSpeed: 1/20
+06/20/23 17:36:15: SetIso: 400
+06/20/23 17:36:15: TakePhoto
+06/20/23 17:36:16: SetShutterSpeed: 1/30
+06/20/23 17:36:16: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:36:16: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:36:16: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 503, {'message': 'During shooting or recording', 'status_code': 503, 'success': False}
+06/20/23 17:36:16: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/20/23 17:36:16: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:31:31: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:31:31: Copyright (c) Horshack, System Time: 06/21/23 13:31:31, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:31:31: Error translating parameter values for "DownloadNewFilesPolled outputdir = "OUTDIR"" on line 29
+06/21/23 13:31:31: >>>> canomate session over (exit=102), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:31:57: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:31:57: Copyright (c) Horshack, System Time: 06/21/23 13:31:57, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:31:57: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 13:31:57: PrintCameraDateTime: Sun, 03 Jan 2021 01:16:45 -0500
+06/21/23 13:31:57: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/20, ISO: 400, EC: 
+06/21/23 13:31:57: PrintShootingModeDial: m
+06/21/23 13:31:57: PrintLensInfo: EF-S18-55mm f/4-5.6 IS STM
+06/21/23 13:31:57: PrintBatteryInfo: Name: LP-E17, Kind: battery, Level: full, Quality: good
+06/21/23 13:31:57: PrintTemperatureStatus: normal
+06/21/23 13:31:57: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 13:31:57: AssertCameraSettings: Conditions met
+06/21/23 13:31:57: SetAperture: f5.6
+06/21/23 13:31:57: SetShutterSpeed: 1/20
+06/21/23 13:31:57: SetIso: 400
+06/21/23 13:31:57: TakePhoto
+06/21/23 13:31:57: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:33:11: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:33:11: Copyright (c) Horshack, System Time: 06/21/23 13:33:11, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:33:11: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 13:33:11: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/20, ISO: 400, EC: 
+06/21/23 13:33:11: PrintStillImageQuality: Raw: none, JPEG: large_fine Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 13:33:11: SetStillImageQuality: Raw: raw, JPEG: large_normal
+06/21/23 13:33:11: AssertCameraSettings: Conditions met
+06/21/23 13:33:11: SetAperture: f5.6
+06/21/23 13:33:11: SetShutterSpeed: 1/20
+06/21/23 13:33:11: SetIso: 400
+06/21/23 13:33:11: TakePhoto
+06/21/23 13:33:12: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0023.JPG']
+06/21/23 13:33:12: GetInfoOnNewFilesPolled: File(s):
+06/21/23 13:33:12: GET Request "http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0023.JPG?kind=info" failed, status_code: 503, {'message': 'During shooting or recording'}
+06/21/23 13:33:12: GET Request "http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0023.JPG?kind=info" failed, status_code: 503, {'message': 'During shooting or recording'}
+06/21/23 13:33:12: GET Request "http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0023.JPG?kind=info" failed, status_code: 503, {'message': 'During shooting or recording'}
+06/21/23 13:33:12: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 13:33:12: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:35:04: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:35:04: Copyright (c) Horshack, System Time: 06/21/23 13:35:04, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:35:04: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 13:35:04: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/20, ISO: 400, EC: 
+06/21/23 13:35:04: PrintStillImageQuality: Raw: raw, JPEG: large_normal Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 13:35:04: SetStillImageQuality: Raw: raw, JPEG: large_normal
+06/21/23 13:35:04: AssertCameraSettings: Conditions met
+06/21/23 13:35:04: SetAperture: f5.6
+06/21/23 13:35:04: SetShutterSpeed: 1/20
+06/21/23 13:35:04: SetIso: 400
+06/21/23 13:35:04: TakePhoto
+06/21/23 13:35:04: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0024.CR3', 'http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0024.JPG']
+06/21/23 13:35:04: GetInfoOnNewFilesPolled: File(s):
+06/21/23 13:35:04: GET Request "http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0024.CR3?kind=info" failed, status_code: 503, {'message': 'During shooting or recording'}
+06/21/23 13:35:04: GET Request "http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0024.CR3?kind=info" failed, status_code: 503, {'message': 'During shooting or recording'}
+06/21/23 13:35:04: GET Request "http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0024.CR3?kind=info" failed, status_code: 503, {'message': 'During shooting or recording'}
+06/21/23 13:35:04: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 13:35:04: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:39:56: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:39:56: Copyright (c) Horshack, System Time: 06/21/23 13:39:56, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:39:56: Error translating parameter values for "DownloadNewFilesPolled outputdir = "OUTDIR"" on line 31
+06/21/23 13:39:56: >>>> canomate session over (exit=102), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:40:47: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:40:47: Copyright (c) Horshack, System Time: 06/21/23 13:40:47, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:40:47: Error translating parameter values for "DownloadNewFilesPolled outputdir =OUTDIR" on line 31
+06/21/23 13:40:47: >>>> canomate session over (exit=102), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:42:55: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:42:55: Copyright (c) Horshack, System Time: 06/21/23 13:42:55, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:42:55: Error translating parameter values for "DownloadNewFilesPolled outputDir =OUTDIR" on line 31
+06/21/23 13:42:55: >>>> canomate session over (exit=102), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:45:30: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:45:30: Copyright (c) Horshack, System Time: 06/21/23 13:45:30, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:45:31: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 13:45:31: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/20, ISO: 400, EC: 
+06/21/23 13:45:31: PrintStillImageQuality: Raw: raw, JPEG: large_normal Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 13:45:31: AssertCameraSettings: Conditions met
+06/21/23 13:45:31: SetAperture: f5.6
+06/21/23 13:45:31: SetShutterSpeed: 1/20
+06/21/23 13:45:31: SetIso: 400
+06/21/23 13:45:31: SetWhiteBalance: auto
+06/21/23 13:45:31: SetStillImageQuality: Raw: craw, JPEG: none
+06/21/23 13:45:31: TakePhoto
+06/21/23 13:45:31: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0025.CR3', 'http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0025.JPG']
+06/21/23 13:45:31: GetInfoOnNewFilesPolled: File(s):
+06/21/23 13:45:31: GET Request "http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0025.CR3?kind=info" failed, status_code: 503, {'message': 'During shooting or recording'}
+06/21/23 13:45:31: GET Request "http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0025.CR3?kind=info" failed, status_code: 503, {'message': 'During shooting or recording'}
+06/21/23 13:45:31: GET Request "http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0025.CR3?kind=info" failed, status_code: 503, {'message': 'During shooting or recording'}
+06/21/23 13:45:31: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 13:45:31: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:49:45: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:49:45: Copyright (c) Horshack, System Time: 06/21/23 13:49:45, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:49:45: Error translating parameter values for "Group gorupname="shot1" downloadtimeout = 5 " on line 4
+06/21/23 13:49:45: >>>> canomate session over (exit=102), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:50:18: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:50:18: Copyright (c) Horshack, System Time: 06/21/23 13:50:18, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:50:18: Error translating parameter values for "Group groupname="shot1" downloadtimeout = 5 " on line 4
+06/21/23 13:50:18: >>>> canomate session over (exit=102), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:53:04: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:53:04: Copyright (c) Horshack, System Time: 06/21/23 13:53:04, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:53:04: Error translating parameter values for "Group groupname="shot1" downloadtimeout = 5 " on line 4
+06/21/23 13:53:04: >>>> canomate session over (exit=102), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:53:17: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:53:17: Copyright (c) Horshack, System Time: 06/21/23 13:53:17, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:53:17: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 13:53:17: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/20, ISO: 400, EC: 
+06/21/23 13:53:17: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 13:53:17: AssertCameraSettings: Conditions met
+06/21/23 13:53:17: SetAperture: f5.6
+06/21/23 13:53:17: SetShutterSpeed: 1/20
+06/21/23 13:53:17: SetIso: 400
+06/21/23 13:53:17: SetWhiteBalance: auto
+06/21/23 13:53:17: SetStillImageQuality: Raw: craw, JPEG: none
+06/21/23 13:53:17: TakePhoto
+06/21/23 13:53:22: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 13:53:22: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0026.CR3', 'http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0027.CR3']
+06/21/23 13:53:27: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 13:53:27: GetInfoOnNewFilesPolled: File(s):
+06/21/23 13:53:27: File #1: Name: IMG_0026.CR3 Size: 14.32 MB, Duration: N/A, Date: Sun, 03 Jan 2021 01:30:18 GMT
+06/21/23 13:53:27: File #2: Name: IMG_0027.CR3 Size: 14.32 MB, Duration: N/A, Date: Sun, 03 Jan 2021 01:38:04 GMT
+06/21/23 13:53:32: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 13:53:32: DownloadNewFilesPolled: File(s):
+06/21/23 13:53:37: DownloadNewFilesPolled: IMG_0026.CR3 stored at ./IMG_0026.CR3 [download time = 4.17 (s)]
+06/21/23 13:53:40: DownloadNewFilesPolled: IMG_0027.CR3 stored at ./IMG_0027.CR3 [download time = 3.77 (s)]
+06/21/23 13:53:45: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 13:53:45: RunExecutable: exec=exiftool args=-q -m -p "${DateTimeOriginal;$_=(split(' ',$_))[1]},${FileName},${Duration#},${CameraTemperature#}" "./IMG_0026.CR3" "./IMG_0027.CR3" [WAIT]
+06/21/23 13:53:45: RunExecutable: Launch failed - "[Errno 2] No such file or directory: 'exiftool'"
+06/21/23 13:53:45: >>>> canomate session over (exit=1200), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:54:51: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:54:51: Copyright (c) Horshack, System Time: 06/21/23 13:54:51, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:54:51: "DownloadNewFilesPolled" operation on line 33 has the following unsupported parameters: {'outdir': 'OUTDIR'}
+06/21/23 13:54:51: >>>> canomate session over (exit=207), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:55:01: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:55:01: Copyright (c) Horshack, System Time: 06/21/23 13:55:01, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:55:01: "DownloadNewFilesPolled" operation on line 33 has the following unsupported parameters: {'outdir': 'OUTDIR'}
+06/21/23 13:55:01: >>>> canomate session over (exit=207), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 13:55:28: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 13:55:28: Copyright (c) Horshack, System Time: 06/21/23 13:55:28, Py: 3.8.16, OS: Darwin
+
+06/21/23 13:55:28: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 13:55:28: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/20, ISO: 400, EC: 
+06/21/23 13:55:28: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 13:55:28: AssertCameraSettings: Conditions met
+06/21/23 13:55:28: SetAperture: f5.6
+06/21/23 13:55:28: SetShutterSpeed: 1/20
+06/21/23 13:55:28: SetIso: 400
+06/21/23 13:55:28: SetWhiteBalance: auto
+06/21/23 13:55:28: SetStillImageQuality: Raw: craw, JPEG: none
+06/21/23 13:55:28: TakePhoto
+06/21/23 13:55:34: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 13:55:34: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0028.CR3']
+06/21/23 13:55:39: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 13:55:39: GetInfoOnNewFilesPolled: File(s):
+06/21/23 13:55:39: File #1: Name: IMG_0028.CR3 Size: 14.35 MB, Duration: N/A, Date: Sun, 03 Jan 2021 01:40:16 GMT
+06/21/23 13:55:44: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 13:55:44: DownloadNewFilesPolled: File(s):
+06/21/23 13:55:48: DownloadNewFilesPolled: IMG_0028.CR3 stored at OUTDIR/IMG_0028.CR3 [download time = 3.95 (s)]
+06/21/23 13:55:53: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 13:55:53: RunExecutable: exec=exiftool args=-q -m -p "${DateTimeOriginal;$_=(split(' ',$_))[1]},${FileName},${Duration#},${CameraTemperature#}" "OUTDIR/IMG_0028.CR3" [WAIT]
+06/21/23 13:55:53: RunExecutable: Launch failed - "[Errno 2] No such file or directory: 'exiftool'"
+06/21/23 13:55:53: >>>> canomate session over (exit=1200), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:03:12: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:03:12: Copyright (c) Horshack, System Time: 06/21/23 14:03:12, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:03:12: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:03:12: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/60, ISO: 400, EC: 
+06/21/23 14:03:12: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:03:12: Performing group "shutter1/20", Iteration 1/1
+06/21/23 14:03:12: AssertCameraSettings: Conditions met
+06/21/23 14:03:12: SetAperture: f5.6
+06/21/23 14:03:12: SetShutterSpeed: 1/20
+06/21/23 14:03:12: SetIso: 400
+06/21/23 14:03:12: SetWhiteBalance: auto
+06/21/23 14:03:12: SetStillImageQuality: Raw: craw, JPEG: none
+06/21/23 14:03:12: TakePhoto
+06/21/23 14:03:17: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:03:17: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0029.CR3']
+06/21/23 14:03:22: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:03:22: GetInfoOnNewFilesPolled: File(s):
+06/21/23 14:03:22: File #1: Name: IMG_0029.CR3 Size: 14.99 MB, Duration: N/A, Date: Sun, 03 Jan 2021 01:48:00 GMT
+06/21/23 14:03:27: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:03:27: DownloadNewFilesPolled: File(s):
+06/21/23 14:03:31: DownloadNewFilesPolled: IMG_0029.CR3 stored at OUTDIR/IMG_0029.CR3 [download time = 4.09 (s)]
+06/21/23 14:03:36: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:03:36: Performing group "shutter1/20", Iteration 1/1
+06/21/23 14:03:36: AssertCameraSettings: Conditions met
+06/21/23 14:03:36: SetAperture: f5.6
+06/21/23 14:03:36: PrintShutterSpeed: 1/20 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:03:36: SetShutterSpeed: 1/50
+06/21/23 14:03:37: SetIso: 400
+06/21/23 14:03:37: SetWhiteBalance: auto
+06/21/23 14:03:37: SetStillImageQuality: Raw: craw, JPEG: none
+06/21/23 14:03:37: TakePhoto
+06/21/23 14:03:42: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:03:42: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0030.CR3']
+06/21/23 14:03:47: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:03:47: GetInfoOnNewFilesPolled: File(s):
+06/21/23 14:03:47: File #1: Name: IMG_0030.CR3 Size: 13.02 MB, Duration: N/A, Date: Sun, 03 Jan 2021 01:48:24 GMT
+06/21/23 14:03:52: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:03:52: DownloadNewFilesPolled: File(s):
+06/21/23 14:03:56: DownloadNewFilesPolled: IMG_0030.CR3 stored at OUTDIR/IMG_0030.CR3 [download time = 3.75 (s)]
+06/21/23 14:04:01: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:04:01: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:04:36: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:04:36: Copyright (c) Horshack, System Time: 06/21/23 14:04:36, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:04:36: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:04:36: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/50, ISO: 400, EC: 
+06/21/23 14:04:36: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:04:36: Performing group "shutter1/20", Iteration 1/1
+06/21/23 14:04:36: AssertCameraSettings: Conditions met
+06/21/23 14:04:36: SetAperture: f5.6
+06/21/23 14:04:36: SetShutterSpeed: 1/20
+06/21/23 14:04:36: SetIso: 400
+06/21/23 14:04:36: SetWhiteBalance: auto
+06/21/23 14:04:36: SetStillImageQuality: Raw: craw, JPEG: none
+06/21/23 14:04:36: TakePhoto
+06/21/23 14:04:41: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:04:41: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0031.CR3']
+06/21/23 14:04:46: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:04:46: GetInfoOnNewFilesPolled: File(s):
+06/21/23 14:04:46: File #1: Name: IMG_0031.CR3 Size: 14.98 MB, Duration: N/A, Date: Sun, 03 Jan 2021 01:49:24 GMT
+06/21/23 14:04:51: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:04:51: DownloadNewFilesPolled: File(s):
+06/21/23 14:04:56: DownloadNewFilesPolled: IMG_0031.CR3 stored at OUTDIR/IMG_0031.CR3 [download time = 4.39 (s)]
+06/21/23 14:05:01: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:05:01: Performing group "shutter1/20", Iteration 1/1
+06/21/23 14:05:01: AssertCameraSettings: Conditions met
+06/21/23 14:05:01: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:05:01: SetAperture: f5.6
+06/21/23 14:05:01: PrintShutterSpeed: 1/20 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:05:01: SetShutterSpeed: 1/50
+06/21/23 14:05:01: PrintIso: 400 Available: ['auto', '100', '125', '160', '200', '250', '320', '400', '500', '640', '800', '1000', '1250', '1600', '2000', '2500', '3200', '4000', '5000', '6400', '8000', '10000', '12800', '16000', '20000', '25600']
+06/21/23 14:05:01: SetIso: 400
+06/21/23 14:05:01: SetWhiteBalance: auto
+06/21/23 14:05:01: SetStillImageQuality: Raw: craw, JPEG: none
+06/21/23 14:05:01: TakePhoto
+06/21/23 14:05:06: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:05:06: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0032.CR3']
+06/21/23 14:05:11: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:05:11: GetInfoOnNewFilesPolled: File(s):
+06/21/23 14:05:11: File #1: Name: IMG_0032.CR3 Size: 13.02 MB, Duration: N/A, Date: Sun, 03 Jan 2021 01:49:48 GMT
+06/21/23 14:05:16: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:05:16: DownloadNewFilesPolled: File(s):
+06/21/23 14:05:22: DownloadNewFilesPolled: IMG_0032.CR3 stored at OUTDIR/IMG_0032.CR3 [download time = 5.59 (s)]
+06/21/23 14:05:27: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:05:27: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:07:55: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:07:55: Copyright (c) Horshack, System Time: 06/21/23 14:07:55, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:07:55: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:07:55: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/50, ISO: 400, EC: 
+06/21/23 14:07:55: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:07:55: Performing group "shutter1/20", Iteration 1/1
+06/21/23 14:07:55: AssertCameraSettings: Conditions met
+06/21/23 14:07:55: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:07:55: SetAperture: f5.6
+06/21/23 14:07:55: PrintShutterSpeed: 1/50 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:07:55: SetShutterSpeed: 1/50
+06/21/23 14:07:55: PrintIso: 400 Available: ['auto', '100', '125', '160', '200', '250', '320', '400', '500', '640', '800', '1000', '1250', '1600', '2000', '2500', '3200', '4000', '5000', '6400', '8000', '10000', '12800', '16000', '20000', '25600']
+06/21/23 14:07:55: SetIso: 400
+06/21/23 14:07:55: GET Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/exposure" failed, status_code: 503, {'message': 'Mode not supported'}
+06/21/23 14:07:55: GET Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/exposure" failed, status_code: 503, {'message': 'Mode not supported'}
+06/21/23 14:07:55: GET Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/exposure" failed, status_code: 503, {'message': 'Mode not supported'}
+06/21/23 14:07:55: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:07:55: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:08:15: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:08:15: Copyright (c) Horshack, System Time: 06/21/23 14:08:15, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:08:15: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:08:15: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/50, ISO: 400, EC: 
+06/21/23 14:08:15: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:08:15: Performing group "shutter1/20", Iteration 1/1
+06/21/23 14:08:15: AssertCameraSettings: Conditions met
+06/21/23 14:08:15: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:08:15: SetAperture: f5.6
+06/21/23 14:08:15: PrintShutterSpeed: 1/50 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:08:15: SetShutterSpeed: 1/50
+06/21/23 14:08:15: PrintIso: 400 Available: ['auto', '100', '125', '160', '200', '250', '320', '400', '500', '640', '800', '1000', '1250', '1600', '2000', '2500', '3200', '4000', '5000', '6400', '8000', '10000', '12800', '16000', '20000', '25600']
+06/21/23 14:08:15: SetIso: 400
+06/21/23 14:08:15: GET Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/exposure" failed, status_code: 503, {'message': 'Mode not supported'}
+06/21/23 14:08:15: GET Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/exposure" failed, status_code: 503, {'message': 'Mode not supported'}
+06/21/23 14:08:15: GET Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/exposure" failed, status_code: 503, {'message': 'Mode not supported'}
+06/21/23 14:08:15: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:08:15: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:08:43: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:08:43: Copyright (c) Horshack, System Time: 06/21/23 14:08:43, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:08:43: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:08:43: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/50, ISO: 400, EC: 
+06/21/23 14:08:43: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:08:43: Performing group "shutter1/20", Iteration 1/1
+06/21/23 14:08:43: AssertCameraSettings: Conditions met
+06/21/23 14:08:43: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:08:43: SetAperture: f5.6
+06/21/23 14:08:43: PrintShutterSpeed: 1/50 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:08:43: SetShutterSpeed: 1/50
+06/21/23 14:08:43: PrintIso: 400 Available: ['auto', '100', '125', '160', '200', '250', '320', '400', '500', '640', '800', '1000', '1250', '1600', '2000', '2500', '3200', '4000', '5000', '6400', '8000', '10000', '12800', '16000', '20000', '25600']
+06/21/23 14:08:43: SetIso: 400
+06/21/23 14:08:43: GET Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/exposure" failed, status_code: 503, {'message': 'Mode not supported'}
+06/21/23 14:08:43: GET Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/exposure" failed, status_code: 503, {'message': 'Mode not supported'}
+06/21/23 14:08:43: GET Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/exposure" failed, status_code: 503, {'message': 'Mode not supported'}
+06/21/23 14:08:43: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:08:43: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:09:21: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:09:21: Copyright (c) Horshack, System Time: 06/21/23 14:09:21, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:09:21: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:09:21: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/50, ISO: 400, EC: 
+06/21/23 14:09:21: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:09:21: Performing group "shutter1/20", Iteration 1/1
+06/21/23 14:09:21: AssertCameraSettings: Conditions met
+06/21/23 14:09:21: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:09:21: SetAperture: f5.6
+06/21/23 14:09:21: PrintShutterSpeed: 1/50 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:09:21: SetShutterSpeed: 1/50
+06/21/23 14:09:21: PrintIso: 400 Available: ['auto', '100', '125', '160', '200', '250', '320', '400', '500', '640', '800', '1000', '1250', '1600', '2000', '2500', '3200', '4000', '5000', '6400', '8000', '10000', '12800', '16000', '20000', '25600']
+06/21/23 14:09:21: SetIso: 400
+06/21/23 14:09:21: PrintWhiteBalance: auto Available: ['auto', 'awbwhite', 'daylight', 'shade', 'cloudy', 'tungsten', 'whitefluorescent', 'flash', 'custom', 'colortemp']
+06/21/23 14:09:21: SetStillImageQuality: Raw: craw, JPEG: none
+06/21/23 14:09:21: TakePhoto
+06/21/23 14:09:26: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:09:26: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0033.CR3']
+06/21/23 14:09:31: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:09:31: GetInfoOnNewFilesPolled: File(s):
+06/21/23 14:09:31: File #1: Name: IMG_0033.CR3 Size: 13.01 MB, Duration: N/A, Date: Sun, 03 Jan 2021 01:54:08 GMT
+06/21/23 14:09:36: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:09:36: DownloadNewFilesPolled: File(s):
+06/21/23 14:09:40: DownloadNewFilesPolled: IMG_0033.CR3 stored at OUTDIR/IMG_0033.CR3 [download time = 3.59 (s)]
+06/21/23 14:09:45: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:09:45: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:24:54: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:24:54: Copyright (c) Horshack, System Time: 06/21/23 14:24:54, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:25:00: ** GET Failed ** "HTTPConnectionPool(host='192.168.1.2', port=8080): Max retries exceeded with url: /ccapi/ver100/deviceinformation (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f8d98a24f40>, 'Connection to 192.168.1.2 timed out. (connect timeout=5.0)'))"
+06/21/23 14:25:05: ** GET Failed ** "HTTPConnectionPool(host='192.168.1.2', port=8080): Max retries exceeded with url: /ccapi/ver100/deviceinformation (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f8d98a409d0>, 'Connection to 192.168.1.2 timed out. (connect timeout=5.0)'))"
+06/21/23 14:25:05: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:25:05: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/15, ISO: 400, EC: 
+06/21/23 14:25:05: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:25:05: Performing group "shutter0.6", Iteration 1/1
+06/21/23 14:25:05: AssertCameraSettings: Conditions met
+06/21/23 14:25:05: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:25:05: SetAperture: f5.6
+06/21/23 14:25:05: PrintShutterSpeed: 1/15 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:25:05: SetShutterSpeed: 06
+06/21/23 14:25:05: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:25:05: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:25:05: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:25:05: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:25:05: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:25:12: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:25:12: Copyright (c) Horshack, System Time: 06/21/23 14:25:12, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:25:12: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:25:12: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/15, ISO: 400, EC: 
+06/21/23 14:25:12: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:25:12: Performing group "shutter0.6", Iteration 1/1
+06/21/23 14:25:12: AssertCameraSettings: Conditions met
+06/21/23 14:25:12: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:25:12: SetAperture: f5.6
+06/21/23 14:25:13: PrintShutterSpeed: 1/15 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:25:13: SetShutterSpeed: 06
+06/21/23 14:25:13: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:25:13: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:25:13: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:25:13: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:25:13: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:25:49: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:25:49: Copyright (c) Horshack, System Time: 06/21/23 14:25:49, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:25:49: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:25:49: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/15, ISO: 400, EC: 
+06/21/23 14:25:49: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:25:49: Performing group "shutter0.6", Iteration 1/1
+06/21/23 14:25:49: AssertCameraSettings: Conditions met
+06/21/23 14:25:49: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:25:49: SetAperture: f5.6
+06/21/23 14:25:49: PrintShutterSpeed: 1/15 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:25:49: SetShutterSpeed: 06
+06/21/23 14:25:49: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:25:49: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:25:49: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:25:49: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:25:49: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:27:16: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:27:16: Copyright (c) Horshack, System Time: 06/21/23 14:27:16, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:27:17: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:27:17: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/15, ISO: 400, EC: 
+06/21/23 14:27:17: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:27:17: Performing group "shutter06", Iteration 1/1
+06/21/23 14:27:17: AssertCameraSettings: Conditions met
+06/21/23 14:27:17: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:27:17: SetAperture: f5.6
+06/21/23 14:27:17: PrintShutterSpeed: 1/15 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:27:17: SetShutterSpeed: 06
+06/21/23 14:27:17: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:27:17: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:27:17: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:27:17: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:27:17: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:27:20: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:27:20: Copyright (c) Horshack, System Time: 06/21/23 14:27:20, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:27:20: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:27:20: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/15, ISO: 400, EC: 
+06/21/23 14:27:20: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:27:20: Performing group "shutter06", Iteration 1/1
+06/21/23 14:27:20: AssertCameraSettings: Conditions met
+06/21/23 14:27:21: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:27:21: SetAperture: f5.6
+06/21/23 14:27:21: PrintShutterSpeed: 1/15 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:27:21: SetShutterSpeed: 06
+06/21/23 14:27:21: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:27:21: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:27:21: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:27:21: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:27:21: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:28:52: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:28:52: Copyright (c) Horshack, System Time: 06/21/23 14:28:52, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:28:52: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:28:52: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/15, ISO: 400, EC: 
+06/21/23 14:28:52: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:28:52: Performing group "shutter06", Iteration 1/1
+06/21/23 14:28:52: AssertCameraSettings: Conditions met
+06/21/23 14:28:52: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:28:52: SetAperture: f5.6
+06/21/23 14:28:52: PrintShutterSpeed: 1/15 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:28:52: SetShutterSpeed: 06
+06/21/23 14:28:52: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:28:52: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:28:52: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:28:52: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:28:52: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:29:31: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:29:31: Copyright (c) Horshack, System Time: 06/21/23 14:29:31, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:29:31: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:29:31: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/15, ISO: 400, EC: 
+06/21/23 14:29:31: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:29:31: Performing group "shutter06", Iteration 1/1
+06/21/23 14:29:31: AssertCameraSettings: Conditions met
+06/21/23 14:29:31: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:29:31: SetAperture: f5.6
+06/21/23 14:29:31: PrintShutterSpeed: 1/15 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:29:31: SetShutterSpeed: 06
+06/21/23 14:29:31: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:29:31: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:29:31: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:29:31: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:29:31: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:30:45: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:30:45: Copyright (c) Horshack, System Time: 06/21/23 14:30:45, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:30:45: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:30:46: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/15, ISO: 400, EC: 
+06/21/23 14:30:46: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:30:46: Performing group "shutter06", Iteration 1/1
+06/21/23 14:30:46: AssertCameraSettings: Conditions met
+06/21/23 14:30:46: PrintAperture: f5.6 Available: ['f4.5', 'f5.0', 'f5.6', 'f6.3', 'f7.1', 'f8.0', 'f9.0', 'f10', 'f11', 'f13', 'f14', 'f16', 'f18', 'f20', 'f22']
+06/21/23 14:30:46: SetAperture: f5.6
+06/21/23 14:30:46: PrintShutterSpeed: 1/15 Available: ['bulb', '30"', '25"', '20"', '15"', '13"', '10"', '8"', '6"', '5"', '4"', '3"2', '2"5', '2"', '1"6', '1"3', '1"', '0"8', '0"6', '0"5', '0"4', '0"3', '1/4', '1/5', '1/6', '1/8', '1/10', '1/13', '1/15', '1/20', '1/25', '1/30', '1/40', '1/50', '1/60', '1/80', '1/100', '1/125', '1/160', '1/200', '1/250', '1/320', '1/400', '1/500', '1/640', '1/800', '1/1000', '1/1250', '1/1600', '1/2000', '1/2500', '1/3200', '1/4000']
+06/21/23 14:30:46: SetShutterSpeed: 06
+06/21/23 14:30:46: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:30:46: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:30:46: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:30:46: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:30:46: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:31:34: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:31:34: Copyright (c) Horshack, System Time: 06/21/23 14:31:34, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:31:38: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:31:38: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/15, ISO: 400, EC: 
+06/21/23 14:31:38: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:31:38: Performing group "shutter06", Iteration 1/1
+06/21/23 14:31:38: AssertCameraSettings: Conditions met
+06/21/23 14:31:38: SetAperture: f5.6
+06/21/23 14:31:38: SetShutterSpeed: 06
+06/21/23 14:31:38: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:31:38: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:31:39: PUT Request "http://192.168.1.2:8080/ccapi/ver100/shooting/settings/tv" failed, status_code: 400, {'message': 'Invalid parameter', 'status_code': 400, 'success': False}
+06/21/23 14:31:39: Exiting after exhausting 'cmdretries'(2) and 'exitoncmderr' is set
+06/21/23 14:31:39: >>>> canomate session over (exit=1101), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:32:48: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:32:48: Copyright (c) Horshack, System Time: 06/21/23 14:32:48, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:32:48: PrintCameraInfo: Model: Canon EOS Rebel T8i, S/N: 182033001669, Firmware: 1.0.0
+06/21/23 14:32:48: PrintShootingSettings: Mode: m, Aperture: f5.6, SS: 1/15, ISO: 400, EC: 
+06/21/23 14:32:48: PrintStillImageQuality: Raw: craw, JPEG: none Available: Raw: ['none', 'raw', 'craw'], JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+06/21/23 14:32:48: Performing group "shutter1/4", Iteration 1/1
+06/21/23 14:32:48: AssertCameraSettings: Conditions met
+06/21/23 14:32:48: SetAperture: f5.6
+06/21/23 14:32:48: SetShutterSpeed: 1/4
+06/21/23 14:32:48: SetIso: 400
+06/21/23 14:32:48: PrintWhiteBalance: auto Available: ['auto', 'awbwhite', 'daylight', 'shade', 'cloudy', 'tungsten', 'whitefluorescent', 'flash', 'custom', 'colortemp']
+06/21/23 14:32:48: SetStillImageQuality: Raw: craw, JPEG: none
+06/21/23 14:32:48: TakePhoto
+06/21/23 14:32:53: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:32:53: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0034.CR3']
+06/21/23 14:32:58: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:32:58: GetInfoOnNewFilesPolled: File(s):
+06/21/23 14:32:58: File #1: Name: IMG_0034.CR3 Size: 19.07 MB, Duration: N/A, Date: Sun, 03 Jan 2021 02:17:36 GMT
+06/21/23 14:33:03: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:33:03: DownloadNewFilesPolled: File(s):
+06/21/23 14:33:08: DownloadNewFilesPolled: IMG_0034.CR3 stored at OUTDIR/IMG_0034.CR3 [download time = 4.90 (s)]
+06/21/23 14:33:13: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:33:13: Performing group "shutter1/30", Iteration 1/1
+06/21/23 14:33:13: AssertCameraSettings: Conditions met
+06/21/23 14:33:13: SetAperture: f5.6
+06/21/23 14:33:13: SetShutterSpeed: 1/30
+06/21/23 14:33:13: SetIso: 400
+06/21/23 14:33:13: PrintWhiteBalance: auto Available: ['auto', 'awbwhite', 'daylight', 'shade', 'cloudy', 'tungsten', 'whitefluorescent', 'flash', 'custom', 'colortemp']
+06/21/23 14:33:13: SetStillImageQuality: Raw: craw, JPEG: none
+06/21/23 14:33:13: TakePhoto
+06/21/23 14:33:19: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:33:19: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0035.CR3']
+06/21/23 14:33:24: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:33:24: GetInfoOnNewFilesPolled: File(s):
+06/21/23 14:33:24: File #1: Name: IMG_0035.CR3 Size: 12.43 MB, Duration: N/A, Date: Sun, 03 Jan 2021 02:18:00 GMT
+06/21/23 14:33:29: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:33:29: DownloadNewFilesPolled: File(s):
+06/21/23 14:33:32: DownloadNewFilesPolled: IMG_0035.CR3 stored at OUTDIR/IMG_0035.CR3 [download time = 2.98 (s)]
+06/21/23 14:33:37: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:33:37: Performing group "shutter1/200", Iteration 1/1
+06/21/23 14:33:37: AssertCameraSettings: Conditions met
+06/21/23 14:33:37: SetAperture: f5.6
+06/21/23 14:33:37: SetShutterSpeed: 1/200
+06/21/23 14:33:37: SetIso: 400
+06/21/23 14:33:37: PrintWhiteBalance: auto Available: ['auto', 'awbwhite', 'daylight', 'shade', 'cloudy', 'tungsten', 'whitefluorescent', 'flash', 'custom', 'colortemp']
+06/21/23 14:33:37: SetStillImageQuality: Raw: craw, JPEG: none
+06/21/23 14:33:37: TakePhoto
+06/21/23 14:33:42: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:33:42: WaitForNewFilesOnCamera: ['http://192.168.1.2:8080/ccapi/ver100/contents/sd/100CANON/IMG_0036.CR3']
+06/21/23 14:33:47: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:33:47: GetInfoOnNewFilesPolled: File(s):
+06/21/23 14:33:47: File #1: Name: IMG_0036.CR3 Size: 7.93 MB, Duration: N/A, Date: Sun, 03 Jan 2021 02:18:24 GMT
+06/21/23 14:33:52: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:33:52: DownloadNewFilesPolled: File(s):
+06/21/23 14:33:54: DownloadNewFilesPolled: IMG_0036.CR3 stored at OUTDIR/IMG_0036.CR3 [download time = 2.00 (s)]
+06/21/23 14:33:59: Delayed for 5.00 seconds (Reason: Delay op)
+06/21/23 14:33:59: >>>> canomate session over (exit=0), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
+06/21/23 14:49:35: canomate v0.02 - Automation Utility for Canon cameras (uses Canon Control API via WiFi)
+06/21/23 14:49:35: Copyright (c) Horshack, System Time: 06/21/23 14:49:35, Py: 3.8.16, OS: Darwin
+
+06/21/23 14:49:35: Error translating parameter values for "SHUTTERSPEED1 = 1/4" on line 6
+06/21/23 14:49:35: >>>> canomate session over (exit=102), logs at "/Users/parisha/Desktop/canon_capture_project/canomate-appdata"
