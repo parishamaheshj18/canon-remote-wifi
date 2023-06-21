@@ -1,0 +1,116 @@
+PrintCameraInfo
+PrintShootingSettings
+PrintStillImageQuality listavailable=yes
+# Raw: ['none', 'raw', 'craw'], 
+# JPEG: ['none', 'large_fine', 'large_normal', 'medium_fine', 'medium_normal', 'small1_fine', 'small1_normal', 'small2']
+
+########################################################
+Group groupname="shutter1/4" repeatcount=1 grouprepeatcount=1
+AssertCameraSettings moviemode=off modedial=m
+#PrintAperture listavailable=yes
+SetAperture aperture=f5.6
+#PrintShutterSpeed listavailable=yes
+#shutterspeed1
+SetShutterSpeed shutterspeed=1/4
+#PrintIso listavailable=yes
+SetIso iso=400
+
+#PrintExposureCompensation listavailable=yes
+#SetExposureCompensation exposurecompensation= "+0.0"
+#PrintMeteringMode listavailable=yes
+#SetMeteringMode meteringmode= "evaluative"
+
+#WB/Picture control----
+
+PrintWhiteBalance listavailable=yes
+#SetWhiteBalance whitebalance=auto
+
+SetStillImageQuality rawquality=craw jpegquality=none
+TakePhoto
+Delay delaytime=2
+#File Operations ----
+WaitForNewFilesOnCamera maxwaittime=5
+Delay delaytime=2
+GetInfoOnNewFilesPolled
+Delay delaytime=2
+DownloadNewFilesPolled outputdir="OUTDIR"
+Delay delaytime=2
+#RunExecutable executable="exiftool" appendlastdownloadstoargs=True #outputfile="results.csv" writemode="overwrite_first_time" assertexitcode=0
+#RunExecutableArgs=-q -m -p "${DateTimeOriginal;$_=(split(' ',$_))[1]},$#{FileName},${Duration#},${CameraTemperature#}"
+#RunExecutable executable="exiftool" appendlastdownloadstoargs=True outputfile="results.csv" writemode="overwrite_first_time" assertexitcode=0
+#RunExecutableArgs=-q -m -p "${DateTimeOriginal;$_=(split(' ',$_))[1]},${FileName},${Duration#},${CameraTemperature#}"
+EndGroup
+#########################################################
+Group groupname="shutter1/30" repeatcount=1 grouprepeatcount=1
+AssertCameraSettings moviemode=off modedial=m
+#PrintAperture listavailable=yes
+SetAperture aperture=f5.6
+#PrintShutterSpeed listavailable=yes
+#shutterspeed2
+SetShutterSpeed shutterspeed=1/30
+#PrintIso listavailable=yes
+SetIso iso=400
+
+#PrintExposureCompensation listavailable=yes
+#SetExposureCompensation exposurecompensation= "+0.0"
+#PrintMeteringMode listavailable=yes
+#SetMeteringMode meteringmode= "evaluative"
+
+#WB/Picture control----
+
+PrintWhiteBalance listavailable=yes
+#SetWhiteBalance whitebalance=auto
+
+SetStillImageQuality rawquality=craw jpegquality=none
+TakePhoto
+Delay delaytime=2
+#File Operations ----
+WaitForNewFilesOnCamera maxwaittime=5
+Delay delaytime=2
+GetInfoOnNewFilesPolled
+Delay delaytime=2
+DownloadNewFilesPolled outputdir="OUTDIR"
+Delay delaytime=2
+#RunExecutable executable="exiftool" appendlastdownloadstoargs=True #outputfile="results.csv" writemode="overwrite_first_time" assertexitcode=0
+#RunExecutableArgs=-q -m -p "${DateTimeOriginal;$_=(split(' ',$_))[1]},$#{FileName},${Duration#},${CameraTemperature#}"
+#RunExecutable executable="exiftool" appendlastdownloadstoargs=True outputfile="results.csv" writemode="overwrite_first_time" assertexitcode=0
+#RunExecutableArgs=-q -m -p "${DateTimeOriginal;$_=(split(' ',$_))[1]},${FileName},${Duration#},${CameraTemperature#}"
+EndGroup
+#########################################################
+
+Group groupname="shutter1/200" repeatcount=1 grouprepeatcount=1
+AssertCameraSettings moviemode=off modedial=m
+#PrintAperture listavailable=yes
+SetAperture aperture=f5.6
+#PrintShutterSpeed listavailable=yes
+#shutterspeed3
+SetShutterSpeed shutterspeed=1/200
+#PrintIso listavailable=yes
+SetIso iso=400
+
+#PrintExposureCompensation listavailable=yes
+#SetExposureCompensation exposurecompensation= "+0.0"
+#PrintMeteringMode listavailable=yes
+#SetMeteringMode meteringmode= "evaluative"
+
+#WB/Picture control----
+
+PrintWhiteBalance listavailable=yes
+#SetWhiteBalance whitebalance=auto
+
+SetStillImageQuality rawquality=craw jpegquality=none
+TakePhoto
+Delay delaytime=2
+#File Operations ----
+WaitForNewFilesOnCamera maxwaittime=5
+Delay delaytime=2
+GetInfoOnNewFilesPolled
+Delay delaytime=2
+DownloadNewFilesPolled outputdir="OUTDIR"
+Delay delaytime=2
+#RunExecutable executable="exiftool" appendlastdownloadstoargs=True outputfile="results.csv" writemode="overwrite_first_time" assertexitcode=0
+#RunExecutableArgs=-q -m -p "${DateTimeOriginal;$_=(split(' ',$_))[1]},$#{FileName},${Duration#},${CameraTemperature#}"
+#RunExecutable executable="exiftool" appendlastdownloadstoargs=True outputfile="results.csv" writemode="overwrite_first_time" assertexitcode=0
+#RunExecutableArgs=-q -m -p "${DateTimeOriginal;$_=(split(' ',$_))[1]},${FileName},${Duration#},${CameraTemperature#}"
+EndGroup
+#########################################################

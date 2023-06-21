@@ -1,0 +1,15 @@
+PrintCameraInfo
+PrintCameraDateTime
+PrintShootingSettings
+PrintShootingModeDial
+PrintLensInfo
+PrintBatteryInfo
+PrintTemperatureStatus
+
+
+PrintStillImageQuality listavailable=yes
+AssertCameraSettings moviemode=off modedial=m
+SetAperture aperture=f5.6
+SetShutterSpeed shutterspeed=1/20
+SetIso iso=400
+TakePhoto
